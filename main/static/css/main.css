@@ -1,0 +1,31 @@
+.features{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    background-color: #57ba72;
+    margin-top: 100px;
+    color:#505250;
+    margin-bottom: 100px;
+}
+
+.logo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+img{
+    width: 80px;
+}
+
+table{
+    border: 2px solid #505250;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+th, td{
+    border: 1px solid #505250;
+}
